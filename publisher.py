@@ -1,6 +1,8 @@
 import paho.mqtt.client as mqtt
 from time import sleep
 
+#Sindre er en kukk
+
 
 client_name = 'my_publisher'
 broker_ip = '127.0.0.1'
