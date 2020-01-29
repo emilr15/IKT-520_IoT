@@ -11,8 +11,8 @@ msg = 'ping'
 
 def on_connect(client, userdata, flags, rc):
     if rc == 0:
-        print(f'{client_name} is connected to broker')
-        client.subscribe(topic, qos=1)
+        print(f'{client_name} is connected to broker on port: {broker_port}')
+        client.subscribe(topic, qos=0)
     else:
         print('Connection failed')
 
