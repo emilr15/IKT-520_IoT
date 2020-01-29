@@ -1,4 +1,5 @@
 # IKT-520_IoT
+Repository for our assignments in IoT.
 
 ## Contributing
 
