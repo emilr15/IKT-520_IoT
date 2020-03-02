@@ -12,8 +12,8 @@ Or, use PyCharm to make a new project from GitHub.
 **NB! The commands underneath are meant for git bash (using '/' instead of '\' path)**
 
 ```
-cd <path to directory you want the Rebartek library>
-git clone https://gitlab.com/rebartek/dev/library.git
+cd <path to directory you want the repository>
+git clone https://github.com/emilr15/IKT-520_IoT.git
 ```
 
 #### 2. Checkout branch
